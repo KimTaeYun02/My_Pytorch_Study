@@ -1,8 +1,8 @@
 # My_Pytorch_Study
-Deep Learning With Pytorch(and Tensflow, Keras, sklearn)
+Deep Learning and Machine Learning With Pytorch(and Tensflow, Keras, sklearn...)
 
 
-|Name|Details|FrameWork|Upload|
+|Name|Details|Use|Upload|
 |:---:|:-----:|:------:|:----:|
 |Iris_pytorch|Study DataLoader withIris Dataset|Pytorch|:heavy_check_mark:|
 |cat_vs_dog|Study use pretrianed model with Cat Dog Classfication|Pytorch|:heavy_check_mark:|
