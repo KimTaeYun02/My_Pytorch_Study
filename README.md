@@ -9,3 +9,4 @@ Deep Learning and Machine Learning With Pytorch(and Tensflow, Keras, sklearn...)
 |pytorch_fashionMnist|Study torch.nn with FashionMNIST Classfication|Pytorch|:heavy_check_mark:|
 |Yolo_v1|Yolo v1(Pascal dataset) Markdown|Pytorch|:heavy_check_mark:|
 |MF_with_SGD|Matric Factorization with SGD|sklearn, numpy|:heavy_check_mark:|
+|cassava_leaf_classification|Multi classification|Pytorch|:heavy_check_mark:|
